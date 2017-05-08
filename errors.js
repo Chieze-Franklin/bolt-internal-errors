@@ -43,6 +43,7 @@ module.exports = {
 
 	'410': "App path missing",
 	'414': "Could not install app due to unsupported target version",
+	'415': "Could not download app from online repository",
 
 	'420': "App port missing",
 
