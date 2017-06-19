@@ -34,6 +34,11 @@ module.exports = {
 	'335': "User has no right to access this app feature",
 	'336': "User has no right to access this app file",
 
+	'340': "App name and/or user name missing",
+	'341': "An app-user with the same app and user already exists",
+	'342': "Could not save app-user to the database",
+	'343': "Could not retrieve app-user from the database",
+
 
 	'400': "App name missing",
 	'401': "An app with the same name already exists",
