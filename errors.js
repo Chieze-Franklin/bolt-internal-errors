@@ -5,6 +5,8 @@ module.exports = {
 	'103': "Could not find specified endpoint",
 	'110': "'X-Bolt-App-Token' header missing",
 	'113': "Could not retrieve the specified 'X-Bolt-App-Token' value from the database",
+	'120': "Bulk delete criterion missing",
+	'130': "Bulk update criterion missing",
 
 	'200': "Username and/or password missing",
 	'201': "A user with the same username already exists",
@@ -49,11 +51,15 @@ module.exports = {
 	'410': "App path missing",
 	'414': "Could not install app due to unsupported target version",
 	'415': "Could not download app from online repository",
+	'416': "Could not retrieve package.json from online repository",
+	'417': "Could not retrieve readme from online repository",
+	'418': "Could not retrieve package.json from local repository",
+	'419': "Could not retrieve readme from local repository",
 
 	'420': "App port missing",
 
-	'432': "Could not save plugin to the database",
-	'433': "Could not retrieve plugin from the database",
+	'432': "Could not save extension to the database",
+	'433': "Could not retrieve extension from the database",
 
 
 	'504': "This app is not a system app",
