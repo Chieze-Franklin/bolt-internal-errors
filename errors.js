@@ -73,6 +73,10 @@ module.exports = {
 	'601': "A file with the same name already exists",
 	'602': "Could not save file",
 	'603': "Could not retrieve file",
+	'604': "The requesting app or user has no right to access this file",
+
+	'612': "Could not write to file",
+	'613': "Could not read from file",
 
 
 	'700': "Collection name and/or app name missing",
