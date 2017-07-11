@@ -41,6 +41,8 @@ module.exports = {
 	'342': "Could not save app-user to the database",
 	'343': "Could not retrieve app-user from the database",
 
+	'350': 'Permission name missing',
+
 
 	'400': "App name missing",
 	'401': "An app with the same name already exists",
@@ -67,6 +69,9 @@ module.exports = {
 	'504': "This app is not a system app",
 
 	'510': "Object to tokenize missing",
+
+	'520': 'Notification message missing',
+	'524': 'This app is suspended from raising notifications',
 
 
 	'600': "File name missing",
