@@ -1,7 +1,7 @@
 {
   "name": "bolt-internal-errors",
   "description": "internal module used to get the current configuration under which Bolt is running",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "errors.js",
   "author": {
     "name": "Chieze Franklin",
